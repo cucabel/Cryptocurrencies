@@ -1,0 +1,17 @@
+.container {
+    padding: 0 !important;
+}
+
+.table-border {
+    margin-top: 50px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-width: thin;
+    border-color: rgb(195, 195, 195);
+    box-shadow: 5px 5px 5px rgb(241, 241, 241);
+}
+
+.table {
+    margin-bottom: 0px !important;
+}
